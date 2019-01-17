@@ -10,8 +10,8 @@ public class Main {
     public static void main(String[] args) {
         Main main = new Main();
 //        main.squareEquation();
-//        main.exercise1();
-//        main.exercise2();
+//        main.exercise1and2();
+//        main.exercise3();
 //        main.quickSort();
         main.countingSort();
     }
